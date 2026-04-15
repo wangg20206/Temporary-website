@@ -119,7 +119,7 @@ function renderPageContent(data) {
   setText("return-date", data.return_date);
   setText("city-info", data.city_info);
   setText("disclaimer", data.disclaimer);
-  setLink("download-link", data.download_link);
+
 
   setText("flight-title", data.flight_title);
   setText("flight-notice", data.flight_notice);
